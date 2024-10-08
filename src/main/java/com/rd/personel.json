@@ -1,0 +1,19 @@
+{
+  "Personel": {
+    "id": 102,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+1-555-1234",
+    "address": {
+      "street": "456 Oak Street",
+      "city": "Springfield",
+      "postalCode": "12345"
+    },
+    "position": "Project Manager",
+    "department": "Operations",
+    "salary": 85000.00,
+    "hireDate": "2018-03-10",
+    "isFullTime": true
+  }
+}

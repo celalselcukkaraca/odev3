@@ -1,0 +1,17 @@
+<Personel>
+    <id>102</id>
+    <firstName>Jane</firstName>
+    <lastName>Smith</lastName>
+    <email>jane.smith@example.com</email>
+    <phone>+1-555-1234</phone>
+    <address>
+        <street>456 Oak Street</street>
+        <city>Springfield</city>
+        <postalCode>12345</postalCode>
+    </address>
+    <position>Project Manager</position>
+    <department>Operations</department>
+    <salary>85000.00</salary>
+    <hireDate>2018-03-10</hireDate>
+    <isFullTime>true</isFullTime>
+</Personel>
